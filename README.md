@@ -12,3 +12,15 @@ Welcome to the Signature Designs Showcase! This repository contains three signat
 - **Linear Gradient Backgrounds:** Utilizing linear gradient backgrounds to add depth and visual interest to the designs.
 - **Glass Morphism:** Employing glass morphism design elements to create a modern and sleek aesthetic.
 - **Noise Effects:** Adding subtle noise effects to enhance texture and realism in the designs.
+
+
+## Getting Started
+
+To explore the designs and gain insights into the design process:
+
+1. Clone the repository to your local machine.
+2. Open the Figma files in the Figma desktop app or web browser.
+3. Dive into each design to understand the layout, color scheme, typography, and interactive elements.
+4. Experiment with variations or use them as inspiration for your own projects.
+
+  
