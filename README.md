@@ -5,3 +5,10 @@ Welcome to the Signature Designs Showcase! This repository contains three signat
 ## Preview
 
 ![Signature Designs Preview](preview.png)
+
+## Features
+
+- **UI/UX Design:** Each signature design is crafted with a focus on user interface and user experience principles to ensure an intuitive and engaging experience.
+- **Linear Gradient Backgrounds:** Utilizing linear gradient backgrounds to add depth and visual interest to the designs.
+- **Glass Morphism:** Employing glass morphism design elements to create a modern and sleek aesthetic.
+- **Noise Effects:** Adding subtle noise effects to enhance texture and realism in the designs.
