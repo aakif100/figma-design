@@ -30,5 +30,5 @@ Contributions and feedback are welcome! If you have suggestions for improvements
 
  ## Thank You
 
-Thank you for visiting and exploring the UI/UX Signature Designs Showcase! We hope you find these designs helpful and inspiring for your own creative projects. 
+Thank you for visiting and exploring the UI/UX Signature Designs Showcase! I hope you find these designs helpful and inspiring for your own creative projects. 
 
