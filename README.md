@@ -23,4 +23,9 @@ To explore the designs and gain insights into the design process:
 3. Dive into each design to understand the layout, color scheme, typography, and interactive elements.
 4. Experiment with variations or use them as inspiration for your own projects.
 
+
+
+## Contributions
+
+Contributions and feedback are welcome! If you have suggestions for improvements or would like to contribute your own signature designs, feel free to open an issue or submit a pull request.
   
